@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toast24&label=Profile%20views&color=0e75b6&style=flat" alt="toast24" /> </p>
 
-- 📫 How to reach me **kedarathrey@gmail.com**
+- 📫 You can reach me [using this!](kedarathrey@gmail.com)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hI5C2a6Ke_gf5aF-BOqYAhcKZqq_6uXE/view?usp=drive_link](https://drive.google.com/file/d/1hI5C2a6Ke_gf5aF-BOqYAhcKZqq_6uXE/view?usp=drive_link)
+- 📄 Know about my experiences [here!](https://drive.google.com/file/d/1hI5C2a6Ke_gf5aF-BOqYAhcKZqq_6uXE/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
