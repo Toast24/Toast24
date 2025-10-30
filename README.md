@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toast24&label=Profile%20views&color=0e75b6&style=flat" alt="toast24" /> </p>
 
-- 📫 You can reach me [using this!](kedarathrey@gmail.com)
+- 📫 You can reach me [using this!](https://kedarathrey@gmail.com)
 
 - 📄 Know about my experiences [here!](https://drive.google.com/file/d/1hI5C2a6Ke_gf5aF-BOqYAhcKZqq_6uXE/view?usp=drive_link)
 
