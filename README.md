@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=32&duration=2800&pause=600&color=00E8FF&center=true&vCenter=true&repeat=true&width=900&lines=Hi!%2C+I'm+Kedar+Athrey+(Toast24);AI+%2B+Biotechnology+Enthusiast;Deep+Learning+%7C+Robotics+%7C+Systems+Engineering;Welcome+to+my+GitHub!." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=32&duration=3000&pause=600&color=6A5ACD&center=true&vCenter=true&repeat=true&width=900&lines=Hi!%2C+I'm+Kedar+Athrey+(Toast24);AI+%2B+Biotechnology+Enthusiast;Deep+Learning+%7C+Robotics+%7C+Systems+Engineering;Welcome+to+my+GitHub!." />
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Toast24&color=blueviolet&style=flat-square)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=toast24&label=Profile%20views&color=0e75b6&style=flat" alt="toast24" /> </p>
 
 - 📫 You can reach me [using this!](https://kedarathrey@gmail.com)
 
@@ -21,17 +21,9 @@
 
 ---
 
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-rho-one-38.vercel.app/api?username=toast24&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-</p>
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Toast24&theme=radical)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Toast24&layout=pie&theme=radical)
 
 
-
-
-
----
 
 
