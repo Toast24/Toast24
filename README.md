@@ -7,7 +7,7 @@
 
 - 📫 You can reach me [using this!](https://kedarathrey@gmail.com)
 
-- 📄 Know about my experiences [here!](https://drive.google.com/file/d/1hI5C2a6Ke_gf5aF-BOqYAhcKZqq_6uXE/view?usp=drive_link)
+- 📄 Know about my experiences [here!]([https://drive.google.com/file/d/1hI5C2a6Ke_gf5aF-BOqYAhcKZqq_6uXE/view?usp=drive_link](https://drive.google.com/file/d/1g0eo4CbfrHQfzHRHwkQ5yK_ITF5VPqsY/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
