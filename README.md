@@ -22,7 +22,6 @@
 ---
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Toast24&theme=radical)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Toast24&layout=pie&theme=radical)
 
 
 
