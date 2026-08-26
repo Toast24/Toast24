@@ -63,6 +63,6 @@ Research on **granular-ball least-squares twin support vector machines**, focusi
 
 - [LinkedIn](https://www.linkedin.com/in/kedar-athrey-4324442ab)
 - [Kaggle](https://www.kaggle.com/kedarathrey)
-- [CV / Resume](https://drive.google.com/file/d/1g0eo4CbfrHQfzHRHwkQ5yK_ITF5VPqsY/view?usp=sharing))
+- [CV / Resume](https://drive.google.com/file/d/1GbGffA_CItfEwAiNlKHQLvAaROWHmPgo/view?usp=sharing))
 - [Email](mailto:https://kedarathrey@gmail.com)
 
