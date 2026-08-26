@@ -1,28 +1,68 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=32&duration=3000&pause=600&color=6A5ACD&center=true&vCenter=true&repeat=true&width=900&lines=Hi!%2C+I'm+Kedar+Athrey+(Toast24);AI+%2B+Biotechnology+Enthusiast;Deep+Learning+%7C+Robotics+%7C+Systems+Engineering;Welcome+to+my+GitHub!." />
-</p>
+# Kedar Athrey
 
-![Profile Views](https://komarev.com/ghpvc/?username=Toast24&color=blueviolet&style=flat-square)
+**Computer Science @ BITS Pilani | Machine Learning & Computer Vision | Medical AI & Robotics**
 
+I am a Computer Science undergraduate at BITS Pilani interested in machine learning, computer vision, and intelligent systems, particularly applications in healthcare and real-world decision-making.
 
-- 📫 You can reach me [using this!](https://kedarathrey@gmail.com)
+My work spans **medical AI, multimodal and vision-language models, computer vision, robust machine learning, and robotics**. I enjoy building and evaluating ML systems through experimentation, with a focus on robust, interpretable, and practically useful approaches.
 
-- 📄 Know about my experiences [here!](https://drive.google.com/file/d/1g0eo4CbfrHQfzHRHwkQ5yK_ITF5VPqsY/view?usp=sharing)
+## Research Interests
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kedar-athrey-4324442ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kedar-athrey-4324442ab" height="30" width="40" /></a>
-<a href="https://kaggle.com/kedarathrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kedarathrey" height="30" width="40" /></a>
-</p>
+- Medical Computer Vision
+- Multimodal AI & Vision-Language Models
+- Medical Foundation Models
+- Robust & Explainable Machine Learning
+- Surgical & Assistive Robotics
+- Robot Perception
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## Research & Selected Work
 
+### 🏥 Medical VLM Research — Ongoing
+
+**Quantifying the CXR-Only Gap in Medical AI Models**
+
+Research investigating how medical vision-language models trained or evaluated primarily on chest X-rays generalize to other medical imaging modalities, including **CT and whole-slide pathology images**.
+
+The project evaluates cross-modality degradation in areas such as **factuality and report generation**, using unified and modality-specialist medical AI models across CXR, CT, and pathology datasets.
+
+**Focus:** Medical VLMs · Multimodal AI · Medical Imaging · Model Generalization
 
 ---
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Toast24&theme=radical)
+### 🔬 [SSVP Extension](https://github.com/Toast24/SSVP_Extension)
 
+Research and implementation work on **vision-based anomaly detection and vision-language modeling** for industrial inspection.
 
+---
 
+### 💊 [Personalized Drug Recommender](https://github.com/Toast24/personalized-drug-recommender)
+
+Personalized drug recommendation using patient profiles, molecular representations, and multiple machine learning architectures.
+
+---
+
+### 🧮 GBLSTSVM — Ongoing Research
+
+Research on **granular-ball least-squares twin support vector machines**, focusing on robust and efficient classification under challenging and class-imbalanced data distributions.
+
+## Technical Skills
+
+**Languages:** Python, C++, C, Java
+
+**Machine Learning:** PyTorch, TensorFlow, scikit-learn, Transformers, FAISS
+
+**Computer Vision:** OpenCV, YOLO, CLIP
+
+**Medical AI:** Vision-Language Models, Medical Imaging, Multimodal Learning
+
+**Robotics:** ROS, Gazebo, SLAM
+
+**Tools:** Git, Linux, Docker
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/kedar-athrey-4324442ab)
+- [Kaggle](https://www.kaggle.com/kedarathrey)
+- [CV / Resume](https://drive.google.com/file/d/1g0eo4CbfrHQfzHRHwkQ5yK_ITF5VPqsY/view?usp=sharing))
+- [Email](mailto:https://kedarathrey@gmail.com)
 
